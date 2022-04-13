@@ -8,8 +8,8 @@ import { RiFolderOpenFill } from "react-icons/ri";
 const About = () => {
   return (
     <section id="about">
-      <h5 className="getToKnow__me">Get to know Me!</h5>
-      <h2 className="getToKnow__me">About Me</h2>
+      <h5 className="center__heading">Get to know Me!</h5>
+      <h2 className="center__heading">About Me</h2>
 
       <div className="container about__container">
         <div className="about__me">
