@@ -8,8 +8,8 @@ import { RiFolderOpenFill } from "react-icons/ri";
 const About = () => {
   return (
     <section id="about">
-      <h5>Get to know Me!</h5>
-      <h2>About Me</h2>
+      <h5 className="getToKnow__me">Get to know Me!</h5>
+      <h2 className="getToKnow__me">About Me</h2>
 
       <div className="container about__container">
         <div className="about__me">
@@ -17,6 +17,7 @@ const About = () => {
             <img src={ME} alt="About Image" />
           </div>
         </div>
+
         <div className="about__content">
           <div className="about__cards">
             <article className="about__card">
@@ -24,25 +25,28 @@ const About = () => {
               <h5>Experience</h5>
               <small>2 Years Working</small>
             </article>
-          </div>
-        </div>
-        <div className="about__content">
-          <div className="about__cards">
             <article className="about__card">
               <FaUserGraduate className="about__icon" />
               <h5>Education</h5>
               <small>What I Know</small>
             </article>
-          </div>
-        </div>
-        <div className="about__content">
-          <div className="about__cards">
             <article className="about__card">
               <RiFolderOpenFill className="about__icon" />
               <h5>Projects</h5>
               <small>40+ Projects</small>
             </article>
           </div>
+
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad neque
+            quisquam nihil doloremque natus distinctio nulla illum error
+            aspernatur voluptatibus excepturi nobis libero obcaecati, quo vitae
+            ipsum doloribus possimus beatae.
+          </p>
+
+          <a href="#contact" className="btn btn-primary">
+            Let's talk
+          </a>
         </div>
       </div>
     </section>
