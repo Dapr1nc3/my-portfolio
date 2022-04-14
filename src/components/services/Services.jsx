@@ -17,23 +17,19 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Prototyping, wireframing, user flows, mockups.</p>
             </li>
             <li>
               <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Application development.</p>
             </li>
             <li>
               <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Visual design and design software.</p>
             </li>
             <li>
               <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Understanding of color theory to convey mood for web app.</p>
             </li>
           </ul>
         </article>
@@ -46,23 +42,21 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Implementing M.E.R.N stack to build web applications.</p>
             </li>
             <li>
               <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Use Database systems to manage Back End data.</p>
             </li>
             <li>
               <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Refactor and reconstruct coding components to optimize code.
+              </p>
             </li>
             <li>
               <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Object-oriented Analysis and Design.</p>
             </li>
           </ul>
         </article>
@@ -75,23 +69,28 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Gather information, writes, organizes, and edits content.</p>
             </li>
             <li>
               <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Maintenance, and improvement of web application, including
+                website content.
+              </p>
             </li>
             <li>
               <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Experienced with multiple content softwares Photoshop, Adobe,
+                and Figma.
+              </p>
             </li>
             <li>
               <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsBookmarkCheckFill className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Creating unique, simple-to-understand, and user-friendly
+                content.
+              </p>
             </li>
           </ul>
         </article>

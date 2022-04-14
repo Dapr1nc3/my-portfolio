@@ -38,10 +38,16 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad neque
-            quisquam nihil doloremque natus distinctio nulla illum error
-            aspernatur voluptatibus excepturi nobis libero obcaecati, quo vitae
-            ipsum doloribus possimus beatae.
+            Hello, I'm Devin. I am a Full Stack Web Developer who enjoys
+            indulging in the coding lifestyle. Working on bussiness, client, and
+            personal projects. when it comes to the Front End of coding. I enjoy
+            creating the aesthetic and feel of the website I create. As for the
+            Back End seeing how data from databases, API's, and seeds come to
+            life to the Front End is also pretty amazing to me. The hobbies I
+            enjoy would be watching anime on my off time. I also like to play
+            Elden Ring which is my current obsession. More importanly Im a
+            family man who loves my siblings, also wanting to give thanks to my
+            parents. Thank you for learning more about me!
           </p>
 
           <a href="#contact" className="btn btn-primary">
